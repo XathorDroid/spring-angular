@@ -4,7 +4,7 @@ Start the Spring project using Maven with the next command:
 mvnw install
 ```
 
-Execute the next command to generate the needed spring resources according the pom.xml file:
+Execute the next command to generate the needed spring resources according the pom.xml file and add the libraries required by Angular:
 ```
 mvnw generate-resources
 ```
